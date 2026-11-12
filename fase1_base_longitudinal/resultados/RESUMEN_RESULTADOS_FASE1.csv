@@ -1,0 +1,47 @@
+﻿subseccion,indicador,valor,fuente
+Cobertura documental y extracción de los reportes mensuales,Reportes procesados,60,resumen del scraping
+Cobertura documental y extracción de los reportes mensuales,Periodos mensuales cubiertos,60,base extraída
+Cobertura documental y extracción de los reportes mensuales,Páginas PDF procesadas,8493,resumen del scraping
+Cobertura documental y extracción de los reportes mensuales,Casos-periodo detectados en los PDF,8027,resumen del scraping
+Cobertura documental y extracción de los reportes mensuales,Registros actor–conflicto extraídos,98723,resumen del scraping antes del filtro de hechos
+Cobertura documental y extracción de los reportes mensuales,Actores originales distintos en la extracción,3006,base extraída
+Cobertura documental y extracción de los reportes mensuales,Inconsistencias registradas,76,resumen del scraping
+Selección de casos con hechos reportados en el periodo,Casos-periodo detectados antes del filtro,8027,resumen del scraping
+Selección de casos con hechos reportados en el periodo,Casos-periodo con hechos,3360,resumen del scraping
+Selección de casos con hechos reportados en el periodo,Casos-periodo sin hechos excluidos,4667,resumen del scraping
+Selección de casos con hechos reportados en el periodo,Casos-periodo conservados,3360,base solo hechos
+Selección de casos con hechos reportados en el periodo,Registros actor–conflicto conservados,44744,base solo hechos
+Limpieza y selección de conflictos vinculados con la actividad minera,Registros antes de la limpieza,44744,auditoría de limpieza
+Limpieza y selección de conflictos vinculados con la actividad minera,Registros después de la limpieza,44743,auditoría de limpieza
+Limpieza y selección de conflictos vinculados con la actividad minera,Actores recortados por nota editorial,9,auditoría de limpieza
+Limpieza y selección de conflictos vinculados con la actividad minera,Filas narrativas excluidas,1,auditoría de limpieza
+Limpieza y selección de conflictos vinculados con la actividad minera,Registros socioambientales examinados,34913,resumen del filtro minero
+Limpieza y selección de conflictos vinculados con la actividad minera,Conflictos socioambientales distintos examinados,447,resumen del filtro minero
+Limpieza y selección de conflictos vinculados con la actividad minera,Conflictos mineros distintos seleccionados,270,resumen del filtro minero
+Limpieza y selección de conflictos vinculados con la actividad minera,Registros actor–conflicto mineros,20908,resumen del filtro minero
+Limpieza y selección de conflictos vinculados con la actividad minera,Actores originales distintos en la base minera,1160,resumen del filtro minero
+Limpieza y selección de conflictos vinculados con la actividad minera,Casos pendientes de revisión minera,0,resumen del filtro minero
+Normalización e identificación longitudinal de actores y conflictos,Nombres reales únicos de actores,1123,maestro de actores
+Normalización e identificación longitudinal de actores y conflictos,Correspondencias nombre real–actor normalizado,1169,maestro de actores
+Normalización e identificación longitudinal de actores y conflictos,Actores normalizados con ID,802,maestro de actores
+Normalización e identificación longitudinal de actores y conflictos,Nombres compuestos únicos separados,40,resumen de IDs de actores
+Normalización e identificación longitudinal de actores y conflictos,Filas después de expandir nombres compuestos,21327,resumen de IDs de actores
+Normalización e identificación longitudinal de actores y conflictos,Actores sin ID,0,resumen de IDs de actores
+Normalización e identificación longitudinal de actores y conflictos,Nombres originales de conflicto,271,resumen de IDs de casos
+Normalización e identificación longitudinal de actores y conflictos,Variantes comparables de conflicto,270,resumen de IDs de casos
+Normalización e identificación longitudinal de actores y conflictos,Vínculos automáticos de casos,221,resumen de IDs de casos
+Normalización e identificación longitudinal de actores y conflictos,Decisiones manuales aplicadas,39,resumen de IDs de casos
+Normalización e identificación longitudinal de actores y conflictos,Pares pendientes de revisión,0,resumen de IDs de casos
+Normalización e identificación longitudinal de actores y conflictos,Identificadores longitudinales de conflicto,146,base final
+Normalización e identificación longitudinal de actores y conflictos,Filas sin id_caso,0,resumen de IDs de casos
+"Depuración, trazabilidad y verificación de consistencia",Registros de la base consolidada,21327,base final
+"Depuración, trazabilidad y verificación de consistencia",Duplicados exactos,0,base final
+"Depuración, trazabilidad y verificación de consistencia",Registros sin duplicados exactos,21327,base final
+"Depuración, trazabilidad y verificación de consistencia",Ocurrencias adicionales de la clave periodo–caso–actor,414,base final
+"Depuración, trazabilidad y verificación de consistencia",Relaciones mensuales únicas,20913,tabla de relaciones
+"Depuración, trazabilidad y verificación de consistencia",Actores normalizados,802,base final
+"Depuración, trazabilidad y verificación de consistencia",Conflictos longitudinales,146,base final
+"Depuración, trazabilidad y verificación de consistencia",Periodos mensuales,60,base final
+"Depuración, trazabilidad y verificación de consistencia",Claves repetidas en la tabla de relaciones,0,tabla de relaciones
+"Depuración, trazabilidad y verificación de consistencia",IDs actor vacíos,0,base final
+"Depuración, trazabilidad y verificación de consistencia",IDs caso vacíos,0,base final
