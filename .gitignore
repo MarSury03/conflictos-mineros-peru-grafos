@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# SO/editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~$*
+*.tmp
+*.log
+
+# Fuentes/archivos locales por defecto (se dejan .gitkeep visibles)
+data/01_original/**
+!data/01_original/.gitkeep
+data/02_intermedia/**
+!data/02_intermedia/.gitkeep
+data/03_final/**
+!data/03_final/.gitkeep
+
+# Datos de gran tamaño y documentos institucionales originales
+*.pdf
+
+# Serializaciones Python potencialmente inseguras; habilitar expresamente si corresponde
+*.pkl
+*.pickle
+*.gpickle
+
+# Secretos
+*.pem
+*.key

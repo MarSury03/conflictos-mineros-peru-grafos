@@ -1,0 +1,15 @@
+# COMPLETAR CON LAS VERSIONES VERIFICADAS DEL ENTORNO FINAL.
+# No son dependencias instaladas ni versiones reproducibles todavía.
+# Bibliotecas mencionadas en el documento metodológico:
+# pandas
+# pymupdf
+# numpy
+# networkx
+# plotly
+# scikit-learn
+# openpyxl
+# python-louvain  # solo si un script realmente lo requiere
+#
+# Cuando dispongas del entorno final, documenta versiones exactas, por ejemplo
+# mediante: python -m pip freeze > requirements.txt
+# Revisa luego el listado para dejar solo dependencias necesarias.
