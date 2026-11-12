@@ -56,7 +56,6 @@ python pipeline_fase1_unificado.py \
 Al finalizar, los archivos principales se encuentran en:
 
 - `resultados_nueva_ejecucion/FASE1_MINERIA_CON_IDS_ACTORES_Y_CASOS.xlsx`
-- `resultados_nueva_ejecucion/FASE1_MINERIA_CON_IDS_ACTORES_Y_CASOS.csv`
 
 ## Resultado validado
 
