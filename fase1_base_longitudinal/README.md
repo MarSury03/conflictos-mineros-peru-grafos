@@ -13,15 +13,13 @@ Este repositorio contiene el pipeline reproducible de la Fase 1 de la tesis. El 
 
 ## Archivos principales
 
+- `Scraper_reportes_2021_2025.py`: Código que extrae los PDFs de la página de la Defensoría del Pueblo.
 - `pipeline_fase1_unificado.py`: código único que integra las seis etapas del procesamiento.
 - `PARES_CASOS_REVISAR.csv`: revisión manual de 39 pares candidatos; contiene 38 decisiones `MISMO` y una decisión `DIFERENTE`.
-- `resultados/FASE1_MINERIA_CON_IDS_ACTORES_Y_CASOS.xlsx`: base final en Excel para revisión manual.
-- `resultados/FASE1_MINERIA_CON_IDS_ACTORES_Y_CASOS.csv`: la misma base final en CSV para reproducibilidad.
-- `resultados/FASE1_RELACIONES_MENSUALES_UNICAS.csv`: una relación por `periodo_reporte`, `id_caso` e `Id_actor`.
+- `resultados/FASE1_MINERIA_CON_IDS_ACTORES_Y_CASOS.xlsx`: base final en Excel.
+- `resultados/FASE1_RELACIONES_MENSUALES_UNICAS.xlsx`: una relación por `periodo_reporte`, `id_caso` e `Id_actor`.
 - `resultados/RESUMEN_RESULTADOS_FASE1.csv`: indicadores organizados según las cinco subsecciones metodológicas.
 - `resultados/RESUMEN_MENSUAL_CASOS_ACTORES_FASE1.csv`: número de registros, casos y actores por mes.
-- `resultados/RESULTADOS_NUMERICOS_FASE1.tex`: tablas LaTeX generadas automáticamente.
-- `resultados/MANIFIESTO_FASE1.json`: cantidades finales y huella SHA-256 de la base reconstruida.
 
 ## Preparación
 
