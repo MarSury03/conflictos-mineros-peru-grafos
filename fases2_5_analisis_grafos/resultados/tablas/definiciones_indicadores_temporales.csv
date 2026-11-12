@@ -1,0 +1,9 @@
+﻿indicador,definicion
+Meses activos,Número de meses distintos en que aparece una relación actor–caso.
+Persistencia dentro del intervalo,"Meses activos divididos entre los meses desde la primera hasta la última aparición, ambos incluidos."
+Entrada mensual,Relación actor–caso presente en el mes actual y ausente en el mes anterior.
+Salida mensual,Relación actor–caso presente en el mes anterior y ausente en el mes actual.
+Persistencia mensual,Relación actor–caso presente en ambos meses consecutivos.
+Jaccard mensual,Intersección de relaciones actor–caso de dos meses consecutivos dividida entre su unión.
+Jaccard anual,Intersección de relaciones actor–caso presentes en dos años consecutivos dividida entre su unión.
+Continuidad multianual,Relación actor–caso documentada en más de un año calendario.
