@@ -1,0 +1,6 @@
+﻿etapa,prueba,aprobada,detalle
+Base original,La base conserva las filas importadas,True,Filas actuales: 21327
+Base original,Identificadores de actor no vacíos,True,Filas con Id_actor vacío: 0
+Base original,Identificadores de caso no vacíos,True,Filas con id_caso vacío: 0
+Base original,Periodos de reporte no vacíos,True,Filas con periodo vacío: 0
+Relaciones,No hay duplicados en periodo-caso-actor,True,Relaciones únicas: 20913
